@@ -1,0 +1,43 @@
+                                         AULA 01 - VARIÁVEIS
+                                           
+                                           
+---------------------------------------------- VARIÁVEIS ----------------------------------------------------------
+as variáveis são containers que armazenam valores de dados
+
+variável x = 2;
+x é o nosso container nossa caixinha que armazena o valor 2 (neste caso o tipo do x é um int)
+
+variável y = "nome";
+y é nosso container nossa caixinha que armazena o valor nome (neste caso o tipo do y é uma string)
+
+variável z = 10.5;
+z é nosso container nossa caixinha que armazena o valor 10.5 (neste caso o tipo do z é um double)
+
+variável p = True;
+p é nosso container é nossa caixinha que armazena o valor True (neste caso o tipo do p é um booleano)
+
+variável c = 'f'
+c é nosso container é nossa caixinha que armazena o valor f (neste caso o tipo do c é char)
+
+---------------------------------------------- TIPOS ----------------------------------------------------------
+temos o tipo INT, que armazena valores inteiros sem decimais como 123 ou -123
+temos o tipo DOUBLE, que armazena números de ponto flutuante, com decimais, como 19,99 ou -19,99
+temos o tipo CHAR, que armazena caracteres únicos como 'a' ou 'B' 
+temos o tipo STRING, que armazena texto, como "Hello World" 
+temos o tipo BOOL, que armazena valores de verdadeiro ou falso
+
+---------------------------------------------- EXEMPLOS ----------------------------------------------------------
+int myNum = 5;
+double myDoubleNum = 5.99D;
+char myLetter = 'D';
+bool myBool = true;
+string myText = "Hello";
+
+---------------------------------------------- REFERENCIAS ----------------------------------------------------------
+Todas as informações acima foram retiradas do W3SCHOOLS - 1999/2023 "https://www.w3schools.com/cs/cs_variables.php" 
+vale a pena conhecer a plataforma
+
+
+
+
+

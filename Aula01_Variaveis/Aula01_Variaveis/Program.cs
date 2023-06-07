@@ -6,20 +6,13 @@ namespace HelloWorld
     {
         static void Main(string[] args)
         {
-            /*---- Variáveis ----*/
+            /*---- Testando as Variáveis ----*/
 
             int x = 10;
             string y = "Pedro";
             double z = 10.5;
             bool verificacao = true;
             char sexo = 'm';
-
-            if (y == "Pedro")
-            {
-                Console.WriteLine("sim");
-            }
-
-
         }
     }
 }
